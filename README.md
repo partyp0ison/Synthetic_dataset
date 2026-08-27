@@ -399,7 +399,7 @@ Synthetic_dataset/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/partyp0ison/Synthetic_dataset.git
+git clone https://github.com/fims9000/Synthetic_dataset.git
 cd Synthetic_dataset
 ```
 
@@ -556,6 +556,17 @@ benchmarks/
 ## 🧰 Технологии
 
 `Python` · `NumPy` · `pandas` · `SciPy` · `scikit-learn` · `PyTorch` · `SHAP` · `Matplotlib`
+
+---
+## 📚 Публикация
+
+Методология генерации синтетических клеточных данных с использованием предметных правил, вариационного моделирования и методов объяснимого искусственного интеллекта представлена в публикации:
+
+> **A Method for Generating Synthetic Cellular Data Using Rules, Variational Modeling, and Explainable Artificial Intelligence**
+
+IEEE Conference Publication, IEEE Xplore
+
+[Открыть публикацию в IEEE Xplore](https://ieeexplore.ieee.org/document/11632177)
 
 ---
 
